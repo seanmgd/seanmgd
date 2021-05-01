@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently looking for a new job in Laravel with React/Vue.js in September! Visit my [portfolio](seanmagaud.tk).
+🔭 I’m currently looking for a new job in Laravel with React/Vue.js in September! Visit my [portfolio](http://seanmagaud.tk).
 
 💬 You can look at my one's of my [e-shop project here](https://blacklotus.vercel.app/)
 
